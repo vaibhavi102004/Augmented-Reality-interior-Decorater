@@ -40,7 +40,7 @@ Please follow the below to setup and run this code pattern.
 
 ### 1. Clone the repo
 
-Clone this [git repo](https://github.com/IBM/augmented-reality-powered-interior-decorator).
+Clone this [git repo](https://github.com/vaibhavi102004/Augmented-Reality-interior-Decorater).
 Else, in a terminal, run:
 
 ```
